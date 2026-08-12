@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || "https://dashboard-ocsi8da14-faiz-287.vercel.app/api";
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || "https://dashboard-gt4hj8rnt-faiz-287.vercel.app/api";
 
 export async function fetchLeads() {
   try {
